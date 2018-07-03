@@ -34,7 +34,7 @@ In `train_new_entity_type.py`,
 
 In `ner_retrain.py`,
 ```py
-...
+```
 Set Model name to the name of the model you want to retrain .
 model='/home/tanush/Desktop/NER Project/Taste Extractor/en_rev_taste'
 
@@ -42,6 +42,7 @@ You can export the training set from another file or directly place them in `ner
 
 
 # Running the Code
+
 To build a new model,
 ```
 $ python train_new_entity_type.py
