@@ -43,12 +43,12 @@ You can export the training set from another file or directly place them in `ner
 
 # Running the Code
 To build a new model,
-```sh
+```
 $ python train_new_entity_type.py
 ```
 
 To retrain the model,
-```sh
+```
 $ python ner_retrain.py
 ```
 
