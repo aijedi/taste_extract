@@ -53,3 +53,9 @@ To retrain the model,
 $ python ner_retrain.py
 ```
 
+To extract 'TASTE' attributes ,
+```
+$ python tagger.py en_rev_taste
+
+```
+
